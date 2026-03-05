@@ -3,25 +3,13 @@ title: Problem Statements
 layout: home
 ---
 
-Member Contributions
-
-(these are contributions for Update 1 and 2, now only content for Update 1 is shown in the website)
-
-- generated the initial ideas, wrote the first draft of problem statements, finally integrated all the ideas from initial research of our group members to develop the complete problem statements - Morgan Shi
-- found online evidence and book references for the learning needs and modified them to fit into true needs in the market and deeper needs analyzed with related theories - Julia 
-- conducted initial market research and competitive analysis for similar products and modified the problem statements to address unique competence of our product - Boran
-- researched if it’s necessary to use AI in certain features and if it’s the the best ability of AI to highlight the necessity of developing an AI application instead of a normal application or database - Ling Sui
-- researched more interesting interactive features that can utilize AI into our product and if we are able to use AI to actualize them in this semester of in the future - Phyllis
-
-----
-
 Target Learning Audience - Corresponding Identified Learning Needs
 
-1. International travelers & explorers - read menu & learn cultures
+1. International travelers & explorers - understand unfamiliar dishes and dish variables not in any existing database while interactively learning the cultural meanings behind local food
 - Kim, Eves & Scarles (2009) show that food experiences are a major motivation for cultural tourism and learning about local culture.
 - Björk & Kauppinen-Räisänen (2016) argue that gastronomy helps tourists construct cultural understanding and authentic travel experiences.
 
-2. People with dietary restrictions - make informed food decisions
+2. People with dietary restrictions - interpret ingredients to manage nuitritions and evaluate food safety for informed eating decisions
 - Grunert & Wills (2007) show that food information helps consumers make healthier dietary decisions.
 - Campos, Doxey & Hammond (2011) highlight the importance of clear food information for people with allergies or dietary constraints.
 
@@ -62,6 +50,18 @@ How AI Assist the Learning Needs
 - Learning Outcomes: Social co-construction of cultural understanding; dialogue grounded in taste systems.
 - Supporting Theories: Social Constructivism; Communities of Practice; Self-Determination Theory (relatedness).
 - Why AI Is Necessary: Without AI → photo-sharing & popularity metrics. With AI → knowledge-based connections. AI prevents superficial engagement loops.
+
+----
+
+Member Contributions
+
+(these are contributions for Update 1 and 2, now only content for Update 1 is shown in the website)
+
+- generated the initial ideas, wrote the first draft of problem statements, finally integrated all the ideas from initial research of our group members to develop the complete problem statements - Morgan Shi
+- found online evidence and book references for the learning needs and modified them to fit into true needs in the market and deeper needs analyzed with related theories - Julia 
+- conducted initial market research and competitive analysis for similar products and modified the problem statements to address unique competence of our product - Boran
+- researched if it’s necessary to use AI in certain features and if it’s the the best ability of AI to highlight the necessity of developing an AI application instead of a normal application or database - Ling Sui
+- researched more interesting interactive features that can utilize AI into our product and if we are able to use AI to actualize them in this semester of in the future - Phyllis
 
 ----
 
