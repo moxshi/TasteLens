@@ -16,9 +16,18 @@ Member Contributions
 ----
 
 Target Learning Audience - Corresponding Identified Learning Needs
-- International travelers & explorers - read menu & learn cultures
-- People with dietary restrictions - make informed food decisions
-- Food lovers - organize daily food combination & connect friends through shared taste experiences
+
+1. International travelers & explorers - read menu & learn cultures
+- Kim, Eves & Scarles (2009) show that food experiences are a major motivation for cultural tourism and learning about local culture.
+- Björk & Kauppinen-Räisänen (2016) argue that gastronomy helps tourists construct cultural understanding and authentic travel experiences.
+
+2. People with dietary restrictions - make informed food decisions
+- Grunert & Wills (2007) show that food information helps consumers make healthier dietary decisions.
+- Campos, Doxey & Hammond (2011) highlight the importance of clear food information for people with allergies or dietary constraints.
+
+3. Food lovers - organize daily food combination & connect friends through shared taste experiences
+- Spence et al. (2016) emphasize that food experiences are socially constructed and shared.
+- Johnston & Baumann (2014) show that food communities use shared taste to construct identity and social belonging.
 
 ----
 
@@ -53,3 +62,19 @@ How AI Assist the Learning Needs
 - Learning Outcomes: Social co-construction of cultural understanding; dialogue grounded in taste systems.
 - Supporting Theories: Social Constructivism; Communities of Practice; Self-Determination Theory (relatedness).
 - Why AI Is Necessary: Without AI → photo-sharing & popularity metrics. With AI → knowledge-based connections. AI prevents superficial engagement loops.
+
+----
+
+References
+
+Björk, P., & Kauppinen-Räisänen, H. (2016). Local food: A source for destination attraction. International Journal of Contemporary Hospitality Management, 28(1), 177–194.
+
+Campos, S., Doxey, J., & Hammond, D. (2011). Nutritional labels on pre-packaged foods: A systematic review. Public Health Nutrition, 14(8), 1496–1506.
+
+Grunert, K. G., & Wills, J. M. (2007). A review of European research on consumer response to nutrition information on food labels. Journal of Public Health, 15(5), 385–399.
+
+Johnston, J., & Baumann, S. (2014). Foodies: Democracy and Distinction in the Gourmet Foodscape. Routledge.
+
+Kim, Y. G., Eves, A., & Scarles, C. (2009). Building a model of local food consumption on trips and holidays: A grounded theory approach. International Journal of Hospitality Management, 28(3), 423–431.
+
+Spence, C., Okajima, K., Cheok, A. D., Petit, O., & Michel, C. (2016). Eating with our eyes: From visual hunger to digital satiation. Brain and Cognition, 110, 53–63.
