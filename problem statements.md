@@ -25,15 +25,31 @@ target learning audience - corresponding identified learning needs
 how AI assist the learning needs
 
 1. Context-Aware Menu Interpretation
-
 - What AI Does: AI scans menus and generates adaptive explanations (translation, flavor tags, allergy risks, cultural context) based on user history and constraints.
-- Learning Outcomes + Theory: Develop cross-cultural food literacy at the decision point; make informed, autonomous choices; reduce cognitive overload.
-- Supported by: Cognitive Load Theory (filtering under time pressure); ZPD (adaptive scaffolding); Situated Learning (learning in real-world contexts).
+- Learning Outcomes: Develop cross-cultural food literacy at the decision point; make informed, autonomous choices; reduce cognitive overload.
+- Supporting Theories: Cognitive Load Theory (filtering under time pressure); ZPD (adaptive scaffolding); Situated Learning (learning in real-world contexts).
 - Why AI Is Necessary: Without AI → static dish descriptions (database). With AI → contextual, personalized interpretation. AI transforms information into adaptive cognitive support.
 
 2. Personal Taste Schema Modeling
 - What AI Does: AI detects patterns across dishes (flavor clusters, ingredient systems, cultural exposure) and builds a dynamic taste map.
-- Learning Outcomes + Theory: Form structured taste schemas; recognize cross-cultural flavor systems; transfer preferences across cuisines.
-- Supported by: Schema Theory; Constructivism; Learning Analytics (pattern detection).
+- Learning Outcomes: Form structured taste schemas; recognize cross-cultural flavor systems; transfer preferences across cuisines.
+- Supporting Theories: Schema Theory; Constructivism; Learning Analytics (pattern detection).
 - Why AI Is Necessary: Without AI → isolated dish logs (food diary). With AI → abstraction and pattern recognition. AI converts episodic experiences into structured knowledge.
 
+3.Adaptive Recommendation for Growth
+- What AI Does: AI suggests dishes balancing familiarity and novelty based on taste profile, context, and exposure gaps.
+- Learning Outcomes: Increase decision competence; expand cultural exploration gradually; strengthen autonomy.
+- Supporting Theories: Self-Determination Theory (autonomy, competence); Desirable Difficulties; ZPD scaffolding.
+- Why AI Is Necessary: Without AI → popularity-based ranking (social media logic). With AI → pedagogically intentional exploration. AI shifts from trend-following to growth-oriented learning.
+
+Reflective Taste Journal & Identity Visualization
+- What AI Does: AI synthesizes taste evolution, diversity exposure, and preference patterns into visual insights and reflection prompts.
+- Learning Outcomes: Develop metacognitive awareness; understand taste as evolving identity; engage in reflective learning.
+- Supporting Theories: Metacognition; Experiential Learning (Kolb); Identity-based learning.
+- Why AI Is Necessary: Without AI → simple consumption log. With AI → reflective pattern awareness. AI turns documentation into cognitive reflection.
+
+Meaning-Based Social Matching
+- What AI Does: AI connects users through shared or complementary taste schemas rather than aesthetic posts.
+- Learning Outcomes: Social co-construction of cultural understanding; dialogue grounded in taste systems.
+- Supporting Theories: Social Constructivism; Communities of Practice; Self-Determination Theory (relatedness).
+- Why AI Is Necessary: Without AI → photo-sharing & popularity metrics. With AI → knowledge-based connections. AI prevents superficial engagement loops.
