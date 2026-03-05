@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Welcome to the showcase website for TasteLens - AI food explorer and personal food profile: 
+Hello World! Welcome to the showcase website for TasteLens - AI food explorer and personal food profile: 
     
     1. to help explore the menu or street and develop cross-cultural food literacy fast and interactively at a decision point
     
